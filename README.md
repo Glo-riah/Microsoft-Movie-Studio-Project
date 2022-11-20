@@ -1,6 +1,11 @@
 # Microsoft-Movie-Studio-Project
-
 # Introduction
+
+![tyson-moultrie-BQTHOGNHo08-unsplash](https://user-images.githubusercontent.com/71209567/202917440-7c16dfac-d4ae-4936-9081-788e61af0293.jpg)
+
+Photo by <a href="https://unsplash.com/@tysonmoultrie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tyson Moultrie</a> on <a href="https://unsplash.com/s/photos/movies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
 This project will use exploratory data analysis to generate insights for a Microsoft Stakeholder.
 # Business Understanding
 ## Real World Problem:
@@ -114,6 +119,4 @@ The images from EDA can be found here https://github.com/Glo-riah/Microsoft-Movi
 
 The notebook that contains the project can be found here https://github.com/Glo-riah/Microsoft-Movie-Studio-Project/blob/main/movie_studio%20(4).ipynb
 
-The pdf file that contains the project can be found 
-
-The presentation for this project can be found 
+The presentation for this project can be found here https://github.com/Glo-riah/Microsoft-Movie-Studio-Project/blob/main/MICROSOFT%20MOVIE%20STUDIO%20PROJECT.pdf

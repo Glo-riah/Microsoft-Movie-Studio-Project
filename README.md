@@ -128,6 +128,6 @@ The data used for the project can be found here https://github.com/Glo-riah/Micr
 
 The images from EDA can be found here https://github.com/Glo-riah/Microsoft-Movie-Studio-Project/tree/main/MS%20EDA%20images
 
-The notebook that contains the project can be found here https://github.com/Glo-riah/Microsoft-Movie-Studio-Project/blob/main/movie_studio%20(4).ipynb
+The notebook that contains the project can be found here https://github.com/Glo-riah/Microsoft-Movie-Studio-Project/blob/main/microsoft_movie_studio.ipynb
 
 The presentation for this project can be found here https://github.com/Glo-riah/Microsoft-Movie-Studio-Project/blob/main/Microsoft%20Movie%20Studio%20Presentation.pdf

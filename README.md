@@ -88,15 +88,26 @@ We will analyse each dataset separately because we have 5 datasets to start with
 2. Uniformity - The datatypes for the datasets are correct.
 
 3. Consistency - Ensure there are no duplicates in the data.
-# Visualizations
+# Results
 ## Genres
 ![Most Profitable Genres](https://user-images.githubusercontent.com/71209567/202910256-1cf6b4a5-b1ea-4105-839d-37dc590145b1.png)
+
+The top 5 most profitable genres are Adventure, Action, Comedy, Drama and Animation.
+
 ## Languages
 ![Most Profitable Languages](https://user-images.githubusercontent.com/71209567/202910283-653e45a5-e24b-45b6-a001-268a0c9b6e80.png)
+
+The top 5 most profitable languages are Thai, Telugu, English, Hungarian and Hindi
+
 ## Release Month
 ![Months With Highest Profit](https://user-images.githubusercontent.com/71209567/202910326-89c317a0-a569-46ff-bb7d-70e04a6b3694.png)
+
+The top 3 most profitable months are June, May, July, November and December.
+
 ## Correlation
 ![Correlation Representation Using a Heatmap](https://user-images.githubusercontent.com/71209567/202910469-88669fd8-1ef0-4a01-ba1a-1b32b6770a32.png)
+
+We have positive correlation between all the variables but varying in terms of strength. A positive correlation is a relationship between two variables that tend to move in the same direction. In this case one variable tends to increase when the other increases.
 
 # Conclusions
 ## 1. What types of films are doing the best at the box office?
@@ -119,4 +130,4 @@ The images from EDA can be found here https://github.com/Glo-riah/Microsoft-Movi
 
 The notebook that contains the project can be found here https://github.com/Glo-riah/Microsoft-Movie-Studio-Project/blob/main/movie_studio%20(4).ipynb
 
-The presentation for this project can be found here https://github.com/Glo-riah/Microsoft-Movie-Studio-Project/blob/main/MICROSOFT%20MOVIE%20STUDIO%20PROJECT.pdf
+The presentation for this project can be found here https://github.com/Glo-riah/Microsoft-Movie-Studio-Project/blob/main/Microsoft%20Movie%20Studio%20Presentation.pdf
